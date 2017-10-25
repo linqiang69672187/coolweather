@@ -17,7 +17,7 @@ import org.json.JSONObject;
 
 public class Utility {
     /**
-     *  解析和处理服务器返回的省级数据11
+     *  解析和处理服务器返回的省级数据1
      */
 
     public static boolean handleProvinceResponse(String response) throws JSONException {
